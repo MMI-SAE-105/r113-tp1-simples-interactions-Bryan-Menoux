@@ -1,6 +1,6 @@
-- nom : Menoux  
+- nom : Menoux
 - prénom : Bryan
-- URL Netlify :
+- URL Netlify : https://precious-banoffee-ab63bd.netlify.app/
 
 # Travail
 
